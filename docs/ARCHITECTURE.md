@@ -1,4 +1,14 @@
-# XMFB / uZen — ARCHITECTURE.md
+# XMFB: Platform • Logic • Product — ARCHITECTURE.md
+from FIRST TIME CODER a WORKING TEMPLATE for NET-POSITIVE FUTURE GROWTTH Individual Transformation and Collaborative Innovation
+
+Submitted by 
+Mark Ezra Merrill
+age 57
+Los Angeles, CA
+(experencing homelessness
+since 02,06,25)
+
+# XMFB / uZen 
 
 ## Overview
 
