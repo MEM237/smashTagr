@@ -16,7 +16,7 @@ This submission demonstrates not just an app, but a full-stack model for growth:
 
 ## 🏆 Submission Highlights
 
-- **First-Time Coder:** This entire stack was developed by Mark Ezra Merrill, age 57, with zero prior coding experience before May 2025.
+- **First-Time Coder:** This entire stack was developed by Mark Ezra Merrill, age 57, with zero prior working coding accompliments before May 2025.
 - **Super-Rich Learning Environment:** XMFB is PARA’s vision made real—an ecosystem designed so anyone can learn and create at warp speed.
 - **Massive Growth Potential:** Everything here is modular, forkable, remixable, and designed for future community expansion.
 
