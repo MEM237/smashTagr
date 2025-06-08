@@ -1,4 +1,4 @@
-console.log('⚠️ useContext in /Users/markemerrill/Developer/xmfb/vttx-mvd/src/hooks/usePresenceChannel.js');
+console.log('⚠️ useContext in /Users/markemerrill/Developer/xmfb/vttx/src/hooks/usePresenceChannel.js');
 import { useContext } from "react"
 import { useContext } from "react"
 import { useEffect } from 'react'
