@@ -91,9 +91,13 @@ PARA isn’t a product. It’s an environment, a method, and a movement.
 
 ## A Note from the Builder
 
-> “XMFB/uZen/VTTX was built in six weeks—from zero—to prove that anyone can do this. I started at age 57, with no coding experience and no resources except belief and an AI partner. PARA’s mission is for that same transformation to be available to anyone. What matters most isn’t the product, but the environment that made it possible. Welcome to the future of building and learning.”  
-> — Mark Ezra Merrill
+> **PARA/XMFb/uZen/VTTX** a representation of XMFb –– a strategic, multi-teared **platform**; a central **logic** and core philosophy branded as ~μZen::/ and; its **product** VTTX, a Visual Texting Interface –– was built with an AI partner in six weeks: from a zero—knowledge base of coding, no resources other than a $200 second-hand MacBook Pro and the belief that one individual can creat, positive, lasting and systemic change in the world. **PARA’s** mission is to unite the www no with influence but incentive for transformation available to anyone –– anywhere. As I watch the world disintergrate around me here in Los Angeles this is not a cry for help, but a ralling call for action. We can, I can, you can affect the change you believe possible in the world. And I AM & this submission is living proof of the accelerated growth and learning potential as a means to that end –– which must occur if we as a species wish to survive this diffacult and termultious stage of evolution –– as there is no guarentee of our success. 
 
+> I ask of the judges, with this somber and sobering thought to dig deep into the artifacts of this submission, and to raise up the trajectory I have been working tirelessly on ever since I was called to action **https://bravenewmetaverse.blogspot.com/** What matters most isn’t the product which is to come, but what the environment it creates offers. Welcome to the future of building and learning. 
+
+> Mark Ezra Merrill
+> Los Angeles, California 
+> Sunday, June 8, 2025 11:22:00 PST
 ---
 
 ## Repo & Demo
@@ -101,7 +105,7 @@ PARA isn’t a product. It’s an environment, a method, and a movement.
 - [GitHub: XMFB/uZen/VTTX](https://github.com/MEM237/para)
 - [Demo Video / Walkthrough: (Link)](https://link.to.demo)
 - [Architecture & Protocol Docs](docs/ARCHITECTURE.md)
-
+_ [PARA_TECH]https://docs.google.com/document/d/1lrppJIFOfFWQwvFO2vGOmzfXgbqx54IqQRJUXSRSTfM/edit?usp=sharing
 ---
 
 **Let’s build something you never thought you could. Welcome to XMFB.**
