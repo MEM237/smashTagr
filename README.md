@@ -1,6 +1,12 @@
 # XMFB: Platform • Logic • Product  
-A Working Template for Future Growth from 'FIRST TIME CODER' Individual Transformation, and Collaborative Innovation
-Submitted by Mark Ezra Merrill, age 57.*
+from FIRST TIME CODER a WORKING TEMPLATE for NET-POSITIVE FUTURE GROWTTH Individual Transformation and Collaborative Innovation
+
+Submitted by 
+Mark Ezra Merrill
+age 57
+Los Angeles, CA
+(experencing homelessness
+since 02,06,25)
 
 ---
 
