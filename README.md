@@ -13,6 +13,46 @@
 
 ---
 
+
+
+
+# XMFB Ritual Identity Mapping
+
+This document describes the symbolic mapping used in the XMFB Ritual Protocol for presence and identity.
+
+---
+
+## Canonical Identity Structure
+
+| Symbol  | Field Name | Meaning / Example                                     |
+|---------|------------|-------------------------------------------------------|
+| CM#     | CMID#      | Semantic name, e.g., `#boaty_mcboatface`              |
+| ID.0#   | IDIT#      | Icon token (identity glyph/sigil), e.g. stylized boat |
+| ID.1#   | ICTM#      | Cam token (camera entropy signature)                  |
+
+---
+
+### **Component Descriptions**
+
+- **CMID#**: The user's visible handle, always rendered as a tag (e.g. `#plastic_lizard`). This is the primary, human-facing semantic identifier.
+
+- **IDIT#**: A cryptographically-generated icon token representing the user's identity. Rendered as a unique glyph, visual sigil, or avatar (e.g., a stylized boat if CMID# is `#boaty_mcboatface`). This is the identity glyph and should be treated as a ceremonial object in UI and protocol.
+
+- **ICTM#**: The Individual Camera Token Marker, derived from live camera entropy or other presence-verification logic. Not typically user-facing, but essential for protocol security and full smash-tag fusion.
+
+---
+
+## Example App Context (React)
+
+```js
+halfSmash: {
+  cmid: "plastic_lizard",      // CMID#: semantic name
+  idit: "glitch_glass",        // IDIT#: icon token / glyph
+  ictm: "9e4e2ab...",          // ICTM#: cam token / entropy hash
+  // ... other fields as needed
+}
+
+
 ## What It Does
 
 
@@ -109,7 +149,7 @@ PARA isn’t a product. It’s an environment, a method, and a movement.
 
 > **PARA/XMFb/uZen/VTTX** a representation of XMFb –– a strategic, multi-teared **platform**; a central **logic** and core philosophy branded as ~μZen::/ and; its **product** VTTX, a Visual Texting Interface –– was built with an AI partner in six weeks: from a zero—knowledge base of coding, no resources other than a $200 second-hand MacBook Pro and the belief that one individual can create, positive, lasting and systemic change in the world. **PARA’s** mission is to unite the www no with influence but incentive for transformation available to anyone –– anywhere. As I watch the world disintegrate around me here in Los Angeles this is not a cry for help, but a rallying call for action. We can, I can, you can affect the change you believe possible in the world. And I AM & this submission is living proof of the accelerated growth and learning potential as a means to that end –– which must occur if we as a species wish to survive this difficult and tumultuous stage of evolution –– as there is no guarantee of our success.
 
-> I ask of the judges, with this somber and sobering thought to dig deep into the artifacts of this submission, and to raise up the trajectory I have been working tirelessly on ever since I was called to action **https://bravenewmetaverse.blogspot.com/** What matters most isn’t the product which is to come, but what the environment it creates offers. Welcome to the future of building and learning with your partner PARA TECHNOLOGIES “right there beside you”.
+> I ask of the judges, with this somber thought to dig deep into me, my work, my vision to raise the trajectory a little higher for us all. **https://bravenewmetaverse.blogspot.com/** What matters most isn’t the product which is to come, but what the environment it creates offers. Welcome to the future of building and learning with your partner PARA TECHNOLOGIES “right there beside you”.
 
 > Mark Ezra Merrill
 > Los Angeles, California
