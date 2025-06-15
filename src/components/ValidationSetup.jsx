@@ -89,7 +89,7 @@ export default function ValidationSetup({ onValidated }) {
           
           {/* 3. The "spiced up" title with new styling. */}
           <div className="text-4xl mt-4 font-bold bg-gradient-to-r from-orange-300 to-pink-400 bg-clip-text text-transparent drop-shadow-[0_2px_2px_rgba(0,0,0,0.5)]">
-            Welcome to VTTX
+            Welcome to XMFb
           </div>
 
           <div className="text-left text-orange-400 text-4xl w-full px-6 leading-snug">

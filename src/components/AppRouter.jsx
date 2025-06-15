@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion" // Import AnimatePresenc
 import ValidationPortal from "./ValidationPortal"
 import ValidationSetup from "./ValidationSetup"
 import ValidationScreen from "./ValidationScreen"
-import VTTXWindow from "./VTTX/VTTXWindow"
+import VTTXWindow from "./VTTXWindow"
 import { SCREENS } from "../constants"
 
 export default function AppRouter({ screen, setScreen }) {
