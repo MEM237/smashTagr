@@ -9,6 +9,7 @@ export default function ValidationScreen({ onComplete }) {
   const videoRef = useRef(null)
 
   const cmid = appState?.halfSmash?.cmid || "unknown_cmid"
+    const diit = appState?.halfSmash?.diit || "" // ✅ Get the DIIT symbol from state
 
   useEffect(() => {
     if (videoRef.current && stream) {
@@ -44,12 +45,13 @@ export default function ValidationScreen({ onComplete }) {
             />
           </div>
 
-          {/* Right Column (Sigil + CMID#) */}
+          {/* Right Column (Sigil + CMID# + DIIT#) */} {/* ✅ Updated comment for clarity */}
           <div className="flex flex-col items-center justify-center h-full w-full">
             <RitualSigil entropy={cmid} />
             <div className="text-4xl mt-6 font-bold bg-gradient-to-r from-orange-300 to-pink-400 bg-clip-text text-transparent break-all">
               #{cmid}
             </div>
+          
           </div>
         </div>
 

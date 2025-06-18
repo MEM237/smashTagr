@@ -12,6 +12,13 @@ function getInitialScreen() {
   // This must match the key used in AppContext.jsx.
   const identity = sessionStorage.getItem("halfSmash")
   return identity ? SCREENS.VTTX : SCREENS.PORTAL
+
+  // somewhere in your validation logic:
+const allowedDomains = ['localhost', '127.0.0.1'];
+if (!allowedDomains.includes(window.location.hostname)) {
+  alert("🔴 Presence system violation.\nThis artifact is not intended for public domains.");
+}
+
 }
 
 function AppContent() {

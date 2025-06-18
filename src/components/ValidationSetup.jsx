@@ -47,14 +47,10 @@ export default function ValidationSetup({ onValidated }) {
 
       const confirmFlash = document.createElement("div");
       confirmFlash.textContent = "🪷 identity confirmed";
-      const diitFlash = document.createElement("div");  
-      diitFlash.textContent = diit;
-      diitFlash.className =
-      "fixed top-12 right-4 z-50 text-3xl text-orange-300 font-jura bg-black px-4 py-2 rounded-lg shadow-lg tracking-wide";
-      document.body.appendChild(diitFlash);
-      setTimeout(() => diitFlash.remove(), 2000);
-
-      confirmFlash.className =
+    
+      confirmFlash.className = document.createElement("div");
+      confirmFlash.textContent = "🪷 identity confirmed";
+      
         "fixed top-4 right-4 z-50 text-green-400 font-jura text-sm bg-black px-3 py-1 rounded-xl shadow-lg animate-pulse-fast";
       document.body.appendChild(confirmFlash);
       setTimeout(() => confirmFlash.remove(), 2000);
