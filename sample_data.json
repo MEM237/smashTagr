@@ -1,0 +1,83 @@
+{
+  "collections": {
+    "users": [
+      {
+        "uid": "demo_user_001",
+        "cmid": "CMID#A1B2C3D4E5F6",
+        "diit": "DIIT#X7Y8Z9W0",
+        "email": "demo1@smashtag.app",
+        "displayName": "SmashUser_A1B2",
+        "createdAt": "TIMESTAMP",
+        "lastActive": "TIMESTAMP",
+        "permissions": {
+          "location": false,
+          "notifications": true
+        }
+      },
+      {
+        "uid": "demo_user_002",
+        "cmid": "CMID#F6E5D4C3B2A1",
+        "diit": "DIIT#W0Z9Y8X7",
+        "email": "demo2@smashtag.app",
+        "displayName": "SmashUser_F6E5",
+        "createdAt": "TIMESTAMP",
+        "lastActive": "TIMESTAMP",
+        "permissions": {
+          "location": true,
+          "notifications": false
+        }
+      },
+      {
+        "uid": "demo_user_003",
+        "cmid": "CMID#K9L8M7N6O5P4",
+        "diit": "DIIT#V3U4T5S6",
+        "email": "demo3@smashtag.app",
+        "displayName": "SmashUser_K9L8",
+        "createdAt": "TIMESTAMP",
+        "lastActive": "TIMESTAMP",
+        "permissions": {
+          "location": true,
+          "notifications": true
+        }
+      }
+    ],
+    "sessions": [
+      {
+        "sessionId": "session_001",
+        "userId": "demo_user_001",
+        "createdAt": "TIMESTAMP",
+        "expiresAt": "TIMESTAMP",
+        "isActive": true,
+        "metadata": {
+          "userAgent": "Flutter Web",
+          "platform": "web",
+          "loginMethod": "api_generated"
+        }
+      },
+      {
+        "sessionId": "session_002",
+        "userId": "demo_user_002",
+        "createdAt": "TIMESTAMP",
+        "expiresAt": "TIMESTAMP",
+        "isActive": true,
+        "metadata": {
+          "userAgent": "Flutter Mobile",
+          "platform": "android",
+          "loginMethod": "api_generated"
+        }
+      },
+      {
+        "sessionId": "session_003",
+        "userId": "demo_user_003",
+        "createdAt": "TIMESTAMP",
+        "expiresAt": "TIMESTAMP",
+        "isActive": false,
+        "metadata": {
+          "userAgent": "Flutter iOS",
+          "platform": "ios",
+          "loginMethod": "developer_bypass"
+        }
+      }
+    ]
+  }
+}
