@@ -1,0 +1,44 @@
+[
+  {
+    "fusion_id": "Z8QU5244D5",
+    "fusion_timestamp": "2025-05-25T21:00:59.465Z",
+    "agents_consented": [
+      "DNKY.Δoo",
+      "DFND.Δee",
+      "CNTP.Δie",
+      "MSPC.Δaa",
+      "DFND.Δee",
+      "TLZL.Δee",
+      "DNKY.Δoo",
+      "DFND.Δee",
+      "CNTP.Δie",
+      "MSPC.Δaa",
+      "DFND.Δee",
+      "TLZL.Δee",
+      "SPCN.Δci"
+    ],
+    "status": "validated",
+    "sealed": true
+  },
+  {
+    "fusion_id": "VNKQF99Z8S",
+    "fusion_timestamp": "2025-05-25T22:11:25.833Z",
+    "agents_consented": [
+      "comb_XEID1",
+      "comb_JZIC",
+      "comb_2UID0",
+      "comb_C9IT",
+      "comb_JZIC",
+      "comb_APSPCN",
+      "comb_RJIC",
+      "comb_RFCM",
+      "comb_46IT",
+      "comb_DGTM",
+      "comb_RFCM",
+      "comb_WHID0",
+      "comb_SPCN"
+    ],
+    "status": "validated",
+    "sealed": true
+  }
+]

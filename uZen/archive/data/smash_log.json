@@ -1,0 +1,44 @@
+[
+  {
+    "session_id": "5dd1dd9f-eb2a-4025-9394-c34d62dc5b50",
+    "timestamp": "2025-05-19T05:13:02.932110",
+    "participants": [
+      "user-A",
+      "user-B"
+    ],
+    "cmids": [
+      "Cranjis McBasketball",
+      "Cranjis McBasketball"
+    ],
+    "icons": [
+      "\ud83d\udfe7\u25be",
+      "\ud83d\udfe7\u25be"
+    ],
+    "smash_tag": "%88e549cba803",
+    "entropy": [
+      "72e196ce-3434-4ca3-bc89-48235db06883",
+      "8b853c37-a460-40ec-b0c8-c519af879ae7"
+    ]
+  },
+  {
+    "session_id": "0a479107-e353-48e8-ab1b-b0d8c92cdf70",
+    "timestamp": "2025-05-19T05:17:45.539223",
+    "participants": [
+      "user-A",
+      "user-B"
+    ],
+    "cmids": [
+      "Cranjis McBasketball",
+      "Cranjis McBasketball"
+    ],
+    "icons": [
+      "\ud83d\udfe7\u25be",
+      "\ud83d\udfe7\u25be"
+    ],
+    "smash_tag": "%6a859c93eb87",
+    "entropy": [
+      "7fdb34c8-ded8-46d2-9897-8ad544b6e5df",
+      "66233d3c-029c-4a50-9bb7-3ebc6b9c050b"
+    ]
+  }
+]

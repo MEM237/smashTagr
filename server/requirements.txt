@@ -1,0 +1,27 @@
+# uZen backend requirements.txt
+
+# Google Cloud for smash-tag record logging
+google-cloud-bigquery>=3.20.0
+google-auth>=2.29.0
+google-cloud-logging>=3.10.0
+
+# ---[ Optional: add these if/when you use any web frameworks, LLMs, or more agents ]---
+
+# Flask           # Uncomment if you add a Flask API
+# fastapi         # Uncomment if you add FastAPI
+# uvicorn         # If you serve FastAPI
+
+# For AI agents (fill in actual package as needed)
+# cerebras        # Uncomment/add real Cerebras SDK name/version if used
+# openai          # Uncomment if using OpenAI API
+# transformers    # Uncomment if using HuggingFace models
+
+# Utilities
+# python-dotenv   # For .env config files
+# loguru          # Fancy logging
+
+# Standard library modules (do NOT include in requirements.txt):
+# datetime, hashlib, json, os, sys, time, uuid
+
+# Local modules: local_adk, reflex_engine
+# (These should be in your repo, not installed via pip)

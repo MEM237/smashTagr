@@ -67,3 +67,30 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+=======
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+dist/
+build/
+*.zip
+
+# Firebase
+.firebase/
+.firebaserc
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+commit.log
+>>>>>>> origin/smashTager

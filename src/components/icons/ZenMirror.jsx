@@ -1,0 +1,32 @@
+import React from "react";
+
+const ZenMirror = () => (
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 225 225" width="225" height="225" fill="none">
+  <rect></rect>
+  <g opacity="100%">
+    <rect x="0" y="0" width="225" height="225" fill="rgba(255,255,255,0)" rx="0" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_00000014)" x="7" y="20" width="212" height="186" fill="#ff9500" stroke="#262626" stroke-width="6" rx="32"></rect>
+    <svg xmlns="http://www.w3.org/2000/svg" height="162" width="162" viewBox="0 0 24 24" fill="#262626" x="32" y="32">
+      <path fill="none" d="M0 0h24v24H0z"></path>
+      <path d="m8.73 18.39 1.27.5V20h4v-1.11l1.27-.5c2.16-.85 3.74-2.47 4.4-4.39H4.34c.65 1.92 2.24 3.54 4.39 4.39z" opacity=".3"></path>
+      <path d="M22 3.51V2L4 3.99V12H2c0 3.69 2.47 6.86 6 8.25V22h8v-1.75c3.53-1.39 6-4.56 6-8.25H10.5V8H22V6.5H10.5V4.78L22 3.51zM8 5.06l1-.11V6.5H8V5.06zM8 8h1v4H8V8zM5.5 5.34l1-.11V6.5h-1V5.34zM5.5 8h1v4h-1V8zm14.16 6c-.66 1.92-2.24 3.54-4.4 4.39l-1.26.5V20h-4v-1.11l-1.27-.5c-2.16-.85-3.74-2.47-4.4-4.39h15.33z"></path>
+    </svg>
+  </g>
+  <defs>
+    <filter id="filter_dshadow_0_0_0_00000014" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_00000014"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_00000014" result="shape"></feBlend>
+    </filter>
+  </defs>
+</svg>
+);
+
+export default ZenMirror;

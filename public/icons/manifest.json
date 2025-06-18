@@ -1,0 +1,70 @@
+{
+  "agents": [
+    "BRZK-ee",
+    "BRZKΔee",
+    "CNTP-ie",
+    "CNTPΔie",
+    "DFND-ee",
+    "DFNDΔee",
+    "DNKY-oo",
+    "DNKYΔoo",
+    "MSPC-aa",
+    "MSPCΔaa",
+    "PTFL-aa",
+    "PTFLΔaa",
+    "RDRS-ie",
+    "RDRSΔie",
+    "SPCN-ci",
+    "SPCNΔci",
+    "SPHN-ue",
+    "SPHNΔue",
+    "STRD-eo",
+    "STRDΔeo",
+    "TLZL-ee",
+    "TLZLΔee"
+  ],
+  "users": [
+    "UbidIcon",
+    "UbotIcon",
+    "UchaIcon",
+    "UcofIcon",
+    "UfloIcon",
+    "UfraIcon",
+    "UglaIcon",
+    "UgraIcon",
+    "UskaIcon",
+    "UtabIcon",
+    "UtumIcon",
+    "UyumIcon"
+  ],
+  "ritual_agents": [
+    "ECHO-lp",
+    "ECHOΔlp",
+    "FRWL-kt",
+    "FRWLΔkt",
+    "NULL-xx",
+    "NULLΔxx",
+    "TIME-rr",
+    "TIMEΔrr",
+    "WITN-sa",
+    "WITNΔsa"
+  ],
+  "variable_agents": [
+    "VAR1-ux",
+    "VAR1Δux",
+    "VAR2-iq",
+    "VAR2Δiq"
+  ],
+  "ekaf_agents": [
+    "ekafVariable-01",
+    "ekafVariable-02",
+    "ekafVariable-03",
+    "ekafVariable-04",
+    "ekafVariable-05",
+    "ekafVariableΔ01",
+    "ekafVariableΔ02",
+    "ekafVariableΔ03",
+    "ekafVariableΔ04",
+    "ekafVariableΔ05"
+  ]
+}
